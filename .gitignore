@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/spark/.idea/
+/spark/bases/
+/spark/tmp/
+/.idea/
+/twitter/.idea/
+/twitter/twitter.iml
